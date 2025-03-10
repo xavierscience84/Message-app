@@ -27,4 +27,16 @@ This project is a chat application that allows users to communicate in real-time
 ## Setup and Installation
 1. Clone the repository:
    ```bash
+
+   Install dependencies:
+
+npm install
+Set up Firebase:
+Create a Firebase project and enable Firestore, Authentication, and Storage.
+Update firebaseConfig in firebase.js with your Firebase project credentials.
+Start the application:
+bash
+
+npm start
+
    git clone [repository-url]
